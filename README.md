@@ -1,10 +1,4 @@
 # DOOM: RETRO 3D ENGINE (BONUS EDITION)
-
-[![ENGINE](https://img.shields.io/badge/ENGINE-DOOM--LIKE%20RAYCASTER-red?style=for-the-badge&logo=doom&logoColor=white)](#)
-[![LANGUAGE](https://img.shields.io/badge/LANGUAGE-C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
-[![GRAPHICS](https://img.shields.io/badge/GRAPHICS-MINILIBX-orange?style=for-the-badge)](#)
-[![PLATFORM](https://img.shields.io/badge/PLATFORM-LINUX-SCC?style=for-the-badge&logo=linux&logoColor=white)](#)
-
 ---
 
 ## 📖 ABOUT THE PROJECT
@@ -158,7 +152,3 @@ Distance threshold checking ensures doors only open when the player is within $1
 $$\text{distance} = \sqrt{(P_x - (D_x + 0.5))^2 + (P_y - (D_y + 0.5))^2}$$
 
 ---
-
-## 📜 CREDITS & LICENSE
-
-Developed as a graphics & systems engineering project for the **42 School curriculum** by **equintas** and **lkingui**.
